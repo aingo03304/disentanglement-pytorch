@@ -11,7 +11,7 @@ python3 main.py \
 --alg=BetaVAE \
 --controlled_capacity_increase=true \
 --loss_terms=FactorVAE \
---dset_dir=$DISENTANGLEMENT_LIB_DATA  \
+--dset_dir=./dataset/  \
 --dset_name=dsprites_full \
 --traverse_z=true \
 --encoder=SimpleGaussianConv64 \

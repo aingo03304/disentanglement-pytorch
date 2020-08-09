@@ -9,7 +9,7 @@ echo "name=$NAME"
 python3 main.py \
 --name=$NAME \
 --alg=BetaVAE \
---dset_dir=$DISENTANGLEMENT_LIB_DATA  \
+--dset_dir=./dataset/  \
 --dset_name=dsprites_full \
 --traverse_z=true \
 --encoder=SimpleGaussianConv64 \

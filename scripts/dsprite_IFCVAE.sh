@@ -10,7 +10,7 @@ python3 main.py \
 --name=$NAME \
 --alg=IFCVAE \
 --controlled_capacity_increase=true \
---dset_dir=$DISENTANGLEMENT_LIB_DATA  \
+--dset_dir=./dataset/  \
 --dset_name=dsprites_full \
 --traverse_z=true \
 --traverse_c=true \

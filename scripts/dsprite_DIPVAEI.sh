@@ -10,7 +10,7 @@ python3 main.py \
 --name=$NAME \
 --alg=BetaVAE \
 --loss_terms=DIPVAEI \
---dset_dir=$DISENTANGLEMENT_LIB_DATA  \
+--dset_dir=./dataset/  \
 --dset_name=dsprites_full \
 --traverse_z=true \
 --encoder=SimpleGaussianConv64 \
