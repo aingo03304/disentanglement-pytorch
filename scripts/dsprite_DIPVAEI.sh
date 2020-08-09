@@ -20,7 +20,4 @@ python3 main.py \
 --use_wandb=false \
 --w_kld=1 \
 --lr_G=0.0005 \
-
-
-
-
+--max_epoch=1

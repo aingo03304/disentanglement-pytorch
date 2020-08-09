@@ -16,8 +16,8 @@ python3 main.py \
 --decoder=SimpleConv64 \
 --z_dim=8 \
 --w_kld=1 \
---use_wandb=false
-
+--use_wandb=false \
+--max_epoch=1
 
 
 

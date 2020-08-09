@@ -15,6 +15,4 @@ python3 main.py \
 --decoder=SimpleConv64 \
 --z_dim=32 \
 --use_wandb=false \
-
-
-
+--max_epoch=1

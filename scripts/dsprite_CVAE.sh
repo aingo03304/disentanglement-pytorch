@@ -22,7 +22,4 @@ python3 main.py \
 --lr_G=0.0004 \
 --include_labels 1 \
 --use_wandb=false
-
-
-
-
+--max_epoch=1

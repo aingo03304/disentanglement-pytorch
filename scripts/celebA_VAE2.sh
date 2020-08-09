@@ -17,6 +17,4 @@ python3 main.py \
 --z_dim=20 \
 --use_wandb=false \
 --w_kld=1.0 \
-
-
-
+--max_epoch=1

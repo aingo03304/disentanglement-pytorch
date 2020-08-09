@@ -18,6 +18,4 @@ python3 main.py \
 --use_wandb=false \
 --w_recon=10000 \
 --w_kld=1 \
-
-
-
+--max_epoch=1

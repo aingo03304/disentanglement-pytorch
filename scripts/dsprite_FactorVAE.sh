@@ -25,8 +25,7 @@ python3 main.py \
 --lr_scheduler=ReduceLROnPlateau \
 --lr_scheduler_args mode=min factor=0.8 patience=0 min_lr=0.000001 \
 --num_workers=1 \
-
-
+--max_epoch=1
 
 
 

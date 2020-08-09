@@ -26,6 +26,4 @@ python3 main.py \
 --w_tc=1 \
 --include_labels 1 \
 --use_wandb=false \
-
-
-
+--max_epoch=1

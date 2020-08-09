@@ -27,3 +27,4 @@ python3 main.py \
 --max_iter=90000 \
 --iterations_c=2000 \
 --evaluation_metric mig sap_score irs factor_vae_metric dci \
+--max_epoch=1
